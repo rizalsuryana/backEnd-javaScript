@@ -1,0 +1,4 @@
+method: '*'
+* => dapat diakses dengan seluruh method yang ada pada HTTP
+route: '/{any*}'
+=> menangani permintaan pada path yang belum ada sebelumnya.

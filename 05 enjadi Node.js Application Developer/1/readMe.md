@@ -1,0 +1,1 @@
+1. node -c valid.js / invalid.js
